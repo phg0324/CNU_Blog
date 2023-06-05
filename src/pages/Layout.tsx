@@ -59,11 +59,14 @@ const Layout = () => {
     <div>
       <Profile>
         <div>
-          <ProfilePicture src="https://t1.daumcdn.net/cfile/tistory/99107A335C1EED5005" alt="프로필 사진" />
+          <ProfilePicture
+            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcboard.net%2Fgame_lol%2F18448&psig=AOvVaw3l-4oPPyoBJ-7IJnUwf_i5&ust=1686040027725000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDhkNraq_8CFQAAAAAdAAAAABAK"
+            alt="프로필 사진"
+          />
         </div>
         <div>
-          <Name>제시</Name>
-          <Description>브롤스타즈~</Description>
+          <Name>안녕</Name>
+          <Description>반가워</Description>
         </div>
       </Profile>
       <Nav>
