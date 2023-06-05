@@ -59,10 +59,7 @@ const Layout = () => {
     <div>
       <Profile>
         <div>
-          <ProfilePicture
-            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcboard.net%2Fgame_lol%2F18448&psig=AOvVaw3l-4oPPyoBJ-7IJnUwf_i5&ust=1686040027725000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDhkNraq_8CFQAAAAAdAAAAABAK"
-            alt="프로필 사진"
-          />
+          <ProfilePicture src="https://ogq-sticker-global-cdn-z01.afreecatv.com/sticker/173b8ae90150b63/main.png" alt="프로필 사진" />
         </div>
         <div>
           <Name>안녕</Name>
